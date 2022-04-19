@@ -9,7 +9,7 @@
 ## 🖥 구현 영상
 
 <br>
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/63281199/163921549-b30fee3e-72e8-43ba-8da4-c616c961af8d.gif)
+![Apr-19-2022 13-28-47](https://user-images.githubusercontent.com/63281199/163921790-49358ee0-68b8-4cc9-8eac-1d63da1d7bea.gif)
 
 
 ## 🥑 과제 개요
