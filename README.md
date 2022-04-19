@@ -9,7 +9,16 @@
 ## 🖥 구현 영상
 
 <br>
+
 ![Apr-19-2022 13-28-47](https://user-images.githubusercontent.com/63281199/163921790-49358ee0-68b8-4cc9-8eac-1d63da1d7bea.gif)
+
+![login](https://user-images.githubusercontent.com/83998679/153635975-443f3996-eeac-410c-9776-1631baf166c9.gif)
+
+<br>
+
+***대화창 페이지***
+
+![messenger](https://user-images.githubusercontent.com/83998679/153636048-2a0d05dd-6080-4c54-b4e8-bb58fc65b4a5.gif)
 
 
 ## 🥑 과제 개요
